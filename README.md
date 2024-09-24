@@ -1,3 +1,5 @@
+MyWayneApp
+
 Sejamos francos: Bruce Wayne é um herdeiro que se propõe ao papel de justiceiro.
 Seu super poder é ser rico e disso derivam aparatos tecnológicos que o capacitam para combater o crime.
 Coadjuvante à sua trama, o insosso e austero Batman sempre favoreceu os vilões da trama, que ganharam destaque e predileção do público.
