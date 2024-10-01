@@ -1,0 +1,33 @@
+@import url('https://fonts.cdnfonts.com/css/lucida-console');
+
+*{
+  margin: 0
+}
+
+.container_avatar{
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  z-index: 10;
+}
+
+.avatar{
+  border-radius: 50%;
+  width: 75px;
+  height: auto;
+  transform: scale(1);
+  overflow: hidden;
+}
+
+.ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #ffd101;
+  background-color: #070d5b;
+  font-family: monospace;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  padding: 2vh;
+  list-style: lower-greek;
+}

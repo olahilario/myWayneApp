@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+}
+
+.container_global{
+  height: 150vh;
+  background-color: #000084;
+  background-image: url('gotham-map.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 70%;
+  backface-visibility: hidden;
+  background-blend-mode: screen;
+  
+}
